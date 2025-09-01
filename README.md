@@ -47,3 +47,4 @@ To improve the chatbot's performance and capabilities, several future developmen
 3. Personalization: The chatbot could be personalized to individual users, taking into account their preferences and interests.
 
 Overall, the chatbot offers a powerful tool for providing support and information to users, and can be developed and improved over time to meet the needs of a specific application or domain.
+"OUTPUT": ![Image](https://github.com/user-attachments/assets/dd797a39-7586-4f0d-98f8-1c5acbe827c7)
